@@ -1,0 +1,14 @@
+.videoa {
+  height: 50vh;
+  width: 100%;
+  position: relative;
+}
+
+.videoa video {
+  height: 50vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
